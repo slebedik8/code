@@ -1,0 +1,13 @@
+C:\Users\Mi\source\repos\Сумма всех четных элементов\Сумма всех четных элементов\bin\Debug\netcoreapp3.1\Сумма всех четных элементов.exe
+C:\Users\Mi\source\repos\Сумма всех четных элементов\Сумма всех четных элементов\bin\Debug\netcoreapp3.1\Сумма всех четных элементов.deps.json
+C:\Users\Mi\source\repos\Сумма всех четных элементов\Сумма всех четных элементов\bin\Debug\netcoreapp3.1\Сумма всех четных элементов.runtimeconfig.json
+C:\Users\Mi\source\repos\Сумма всех четных элементов\Сумма всех четных элементов\bin\Debug\netcoreapp3.1\Сумма всех четных элементов.runtimeconfig.dev.json
+C:\Users\Mi\source\repos\Сумма всех четных элементов\Сумма всех четных элементов\bin\Debug\netcoreapp3.1\Сумма всех четных элементов.dll
+C:\Users\Mi\source\repos\Сумма всех четных элементов\Сумма всех четных элементов\bin\Debug\netcoreapp3.1\Сумма всех четных элементов.pdb
+C:\Users\Mi\source\repos\Сумма всех четных элементов\Сумма всех четных элементов\obj\Debug\netcoreapp3.1\Сумма всех четных элементов.csprojAssemblyReference.cache
+C:\Users\Mi\source\repos\Сумма всех четных элементов\Сумма всех четных элементов\obj\Debug\netcoreapp3.1\Сумма всех четных элементов.AssemblyInfoInputs.cache
+C:\Users\Mi\source\repos\Сумма всех четных элементов\Сумма всех четных элементов\obj\Debug\netcoreapp3.1\Сумма всех четных элементов.AssemblyInfo.cs
+C:\Users\Mi\source\repos\Сумма всех четных элементов\Сумма всех четных элементов\obj\Debug\netcoreapp3.1\Сумма всех четных элементов.csproj.CoreCompileInputs.cache
+C:\Users\Mi\source\repos\Сумма всех четных элементов\Сумма всех четных элементов\obj\Debug\netcoreapp3.1\Сумма всех четных элементов.dll
+C:\Users\Mi\source\repos\Сумма всех четных элементов\Сумма всех четных элементов\obj\Debug\netcoreapp3.1\Сумма всех четных элементов.pdb
+C:\Users\Mi\source\repos\Сумма всех четных элементов\Сумма всех четных элементов\obj\Debug\netcoreapp3.1\Сумма всех четных элементов.genruntimeconfig.cache
